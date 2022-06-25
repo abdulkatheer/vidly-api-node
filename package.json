@@ -28,8 +28,10 @@
     "winston-mongodb": "^3.0.0"
   },
   "devDependencies": {
-    "fsevents": "^2.3.2",
     "jest": "^22.2.2",
     "supertest": "^3.0.0"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
   }
 }
